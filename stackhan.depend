@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1589653742 source:c:\users\user\desktop\labs\stackhan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"functions.h"
+
+1589653742 c:\users\user\desktop\labs\stackhan\functions.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
